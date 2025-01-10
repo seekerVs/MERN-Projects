@@ -1,6 +1,6 @@
 # MERN-Projects
  
-Welcome to the **MERN-Projects** repository! This repository will contain project outputs as I continue to make progress on learning MERN tech stack and serve as a stepping stone in making big tech solutions in future.
+Welcome to the **MERN-Projects** repository! This repository will contain project outputs as I continue to make progress on learning MERN tech stack and serve as a stepping stone in creating tech solutions in future.
 
 ---
 
